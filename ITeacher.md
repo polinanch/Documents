@@ -5,14 +5,13 @@
 * +AddTeacher (Teacher:[Teacher](https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teachers")): Int — функция, добавляющая преподавателя в базу данных. Параметр
  «[Teacher](https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teacher")» — преподаватель, 
 которого необходимо добавить в БД;
-* +EdiTeacher (Teacher:[Teacher](https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teacher")): Bool — функция, редактирующая
- данные о преподавателе. Параметр «Teacher:[Teacher](https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teacher")» — 
+* +EdiTeacher (Teacher:Teacher): Bool — функция, редактирующая
+ данные о преподавателе. Параметр «Teacher:Teacher» — 
 преподаватель, которого необходимо редактировать в БД;
-* +FindByID(ID: Int): [Teacher](https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teacher")  — функция, осуществляющая 
+* +FindByID(ID: Int): Teacher  — функция, осуществляющая 
 поиск преподавателя в базе данных по ID и возвращающая найденный, если такой есть. 
 * +Del(ID): Bool – функция удаляет преподавателя.
-* +GetAllTeachers(ID: Int, sorting: string, sortingA: string, filtering: Reader, count: Int, page: Int): List <[Teacher]
-(https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teacher")> — функция, возвращающая список преподавателей. 
+* +GetAllTeachers(ID: Int, sorting: string, sortingA: string, filtering: Reader, count: Int, page: Int): List <Teacher> — функция, возвращающая список преподавателей. 
 * +Getchedule(ID : int) : List<[Schedule](https://github.com/polinanch/Documents/blob/master/Schedule.md)> - функция возвращающая расписание преподавателя.
 * +GetAllCourses(ID : int) : List<[Courses](https://github.com/polinanch/Documents/blob/master/Course.md)> - функция возвращает список курсов данного преподавателя.
 * +GetAllGroup(ID : int) : List<[Groups](https://github.com/polinanch/Documents/blob/master/Group.md)> - функция возвращает список групп данного преподавателя.

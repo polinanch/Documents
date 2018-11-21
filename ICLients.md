@@ -12,7 +12,8 @@
 * +Getchedule(ID : int) : List<Schedule (https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client") - функция возвращающая расписание клиента.
 * +GetAllCourses(ID : int) : List<Courses (https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client") - функция возвращает список курсов данного клиента.
 * +GetAllGroup(ID : int) : List<Groups (https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client") - функция возвращает список групп данного клиента.
-* +GetAllLanguage(ID : int) :  List<Languages (https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client") - функция возвращает список изучаемых языков данного клиента.
+* +GetAllLanguage(ID : int) :  List<Languages (https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client") - функция возвращает список изучаемых языков 
+ данного клиента.
 Параметры: 
 	* sortintg: string — отвечает, по какому полю будет сортироваться список;
   

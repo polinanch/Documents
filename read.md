@@ -1,6 +1,6 @@
 # Школа иностранных языков
 ## Диаграмма размещения
-![Alt-текст](https://psv4.userapi.com/c848036/u155886715/docs/d2/af652079ae14/diag.png?extra=7ao9Ih4jpKszgqjentS45s9f6wGa1dXL3srJ2i1kr3NokiYIwKPM0lz4lyvz_4o9n6zZgKU1-zPYg0oTF5Fk3d4_5Y2hUWPWpW_bzCEfbW8Aci_iek7K6tVO2McSsvVTYB_BNUWUE3UQnB1P33L2"Диаграмма размещения")
+![Alt-текст](https://psv4.userapi.com/c848036/u155886715/docs/d2/af652079ae14/diag.png?extra=7ao9Ih4jpKszgqjentS45s9f6wGa1dXL3srJ2i1kr3NokiYIwKPM0lz4lyvz_4o9n6zZgKU1-zPYg0oTF5Fk3d4_5Y2hUWPWpW_bzCEfbW8Aci_iek7K6tVO2McSsvVTYB_BNUWUE3UQnB1P33L2 "Диаграмма размещения")
 Диаграмма размещения отражает физические взаимосвязи между программными и аппаратными компонентами системы. 
 На диаграмме размещения изображены узлы выполнения программных компонентов, а также объектов. 
 Показано, что клиентское приложение, установленное на компьютере пользователя, 

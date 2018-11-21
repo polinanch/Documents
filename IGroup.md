@@ -9,8 +9,8 @@
 * +FindByID(ID: Int): [Group](https://github.com/polinanch/Documents/blob/master/Group.md "объект класса Group")  — функция, осуществляющая поиск группы в базе данных по ID и возвращающая найденную, если такая есть. 
 * +Del(ID): Bool – функция удаляет группу.
 * +GetAllGroups(ID: Int, sorting: string, sortingA: string, filtering: Reader, count: Int, page: Int): List <[Group](https://github.com/polinanch/Documents/blob/master/Group.md "объект класса Group")> — функция, возвращающая список групп. 
-* +GetAllStudent(ID : int) List<Student> - функция возвращающая список учащихся в этой группе.
-* +Getchedule(ID : int) List<Schedule> - функция возвращающая расписание заданной группы.
+* +GetAllStudent(ID : int) List<[Client] (https://github.com/polinanch/Documents/blob/master/Client.md )> - функция возвращающая список учащихся в этой группе.
+* +Getchedule(ID : int) List<[Schedule] (https://github.com/polinanch/Documents/blob/master/Schedule.md )> - функция возвращающая расписание заданной группы.
 Параметры: 
 	* sortintg: string — отвечает, по какому полю будет сортироваться список;
   

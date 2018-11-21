@@ -4,7 +4,7 @@
 ## Атрибуты
 
 * Comment : string
-* Language : List<Language>
+* Language : List<[Language](https://github.com/polinanch/Documents/blob/master/Language.md "объект класса Language")>
 * Sex : bool
 * TypeOfOccup : string
 

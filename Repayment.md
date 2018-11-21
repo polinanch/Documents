@@ -3,10 +3,10 @@
 
 ## Атрибуты
 
-* Client : Client(https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client")
-* Course : Course(https://github.com/polinanch/Documents/blob/master/Course.md "объект класса Course")
+* Client : [Client](https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client")
+* Course : [Course](https://github.com/polinanch/Documents/blob/master/Course.md "объект класса Course")
 ## Описание атрибутов
 
-* Client : Client(https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client") - клиент, который оплатил курс
-* Course : Course(https://github.com/polinanch/Documents/blob/master/Course.md "объект класса Course") - курс за который заплатил клиент
+* Client : [Client](https://github.com/polinanch/Documents/blob/master/Client.md "объект класса Client") - клиент, который оплатил курс
+* Course : [Course](https://github.com/polinanch/Documents/blob/master/Course.md "объект класса Course") - курс за который заплатил клиент
 

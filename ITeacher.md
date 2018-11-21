@@ -2,8 +2,8 @@
 Интерфейс предназначен для работы с методами класса Teacher
 
 ## Реализация интерфейса
-* +AddTeacher (Teacher:[Teacher](https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teachers")): Int — функция, добавляющая преподавателя в базу данных. Параметр
- «[Teacher](https://github.com/polinanch/Documents/blob/master/Teacher.md "объект класса Teacher")» — преподаватель, 
+* +AddTeacher (Teacher:Teacher): Int — функция, добавляющая преподавателя в базу данных. Параметр
+ «Teacher» — преподаватель, 
 которого необходимо добавить в БД;
 * +EdiTeacher (Teacher:Teacher): Bool — функция, редактирующая
  данные о преподавателе. Параметр «Teacher:Teacher» — 

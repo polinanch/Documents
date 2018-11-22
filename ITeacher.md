@@ -2,10 +2,10 @@
 Интерфейс предназначен для работы с методами класса Teacher
 
 ## Реализация интерфейса
-* +AddTeacher (Teacher:Teacher): Int — функция, добавляющая преподавателя в базу данных. Параметр
+* +AddTeacher (Teacher:[Person](https://github.com/polinanch/Documents/blob/master/Person.md "объект класса Person")): Int — функция, добавляющая преподавателя в базу данных. Параметр
  «Teacher» — преподаватель, 
 которого необходимо добавить в БД;
-* +EdiTeacher (Teacher:Teacher): Bool — функция, редактирующая
+* +EdiTeacher (Teacher:[Person](https://github.com/polinanch/Documents/blob/master/Person.md "объект класса Person")): Bool — функция, редактирующая
  данные о преподавателе. Параметр «Teacher:Teacher» — 
 преподаватель, которого необходимо редактировать в БД;
 * +FindByID(ID: Int): Teacher  — функция, осуществляющая 
@@ -16,7 +16,7 @@
 * +GetAllGroup(ID : int) : List<[Groups](https://github.com/polinanch/Documents/blob/master/Group.md)> - функция возвращает список групп данного преподавателя.
 * +GetAllLanguage(ID : int) :  List<[Languages](https://github.com/polinanch/Documents/blob/master/Language.md)> - функция возвращает список изучаемых языков данного преподавателя.
 * +GetAllSalary (ID : int) : List<[Salary](https://github.com/polinanch/Documents/blob/master/Salary.md)> - функция возвращает список зарплат преподавателя.
-* +GetAllTeachers(ID: Int, sorting: string, sortingA: string, filtering: Reader, count: Int, page: Int): List <Teacher> — функция, возвращающая список преподавателей. 
+* +GetAllTeachers(ID: Int, sorting: string, sortingA: string, filtering: Reader, count: Int, page: Int): List <[Person](https://github.com/polinanch/Documents/blob/master/Person.md "объект класса Person")> — функция, возвращающая список преподавателей. 
 Параметры: 
 	* sortintg: string — отвечает, по какому полю будет сортироваться список;
   

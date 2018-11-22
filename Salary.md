@@ -5,10 +5,10 @@
 
 * Hours : int
 * Rub\hour : float
-* Teacher : Teacher
+* Teacher : [Person](https://github.com/polinanch/Documents/blob/master/Person.md "объект класса Person")
 
 ## Описание атрибутов
 
 * Hours : int - часы, отработанные преподавателем
 * Rub\hour : float - почасовая оплата(рублей в час)
-* Teacher : Teacher - преподаватель, которому выплачивается зарплата
+* Teacher : [Person](https://github.com/polinanch/Documents/blob/master/Person.md "объект класса Person") - преподаватель, которому выплачивается зарплата

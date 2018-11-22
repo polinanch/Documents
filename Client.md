@@ -12,5 +12,5 @@
 
 * Comment : string - комментарий к клиенту
 * Language : List<Language> - список изучаемых языков
-* Sex : bool - пол
+* Sex : bool - пол(true - жен, false - муж) 
 * TypeOfOccup : string - тип обучения

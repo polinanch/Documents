@@ -11,10 +11,10 @@
 * +FindByID(ID: Int): [Course](https://github.com/polinanch/Documents/blob/master/Course.md  "объект класса Course")  — функция, осуществляющая
  поиск курса в базе данных по ID и возвращающая найденный, если такой есть. 
 * +Del(ID): Bool – функция удаляет курс.
-* +GetAllCourses(ID: Int, sorting: string, sortingA: string, filtering: Reader, count: Int, page: Int): List 
 <[Course](https://github.com/polinanch/Documents/blob/master/Course.md  "объект класса Course")> — функция, возвращающая список курсов. 
 * +GetAllStudent(ID : int) List<[Client](https://github.com/polinanch/Documents/blob/master/Client.md )> - функция возвращающая список учащихся на этом курсе.
 * +Getchedule(ID : int) List<[Schedule](https://github.com/polinanch/Documents/blob/master/Schedule.md )> - функция возвращающая расписание заданного курса.
+* +GetAllCourses(ID: Int, sorting: string, sortingA: string, filtering: Reader, count: Int, page: Int): List 
 Параметры: 
 	* sortintg: string — отвечает, по какому полю будет сортироваться список;
   

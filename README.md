@@ -19,7 +19,7 @@
 Показано, что клиентское приложение, установленное на компьютере пользователя, 
 взаимодействует с сервером, который содержит в себе базу данных.
 ## Диаграмма компонентов
-![Alt-текст](https://psv4.userapi.com/c848124/u155886715/docs/d15/2e46e8f142a8/noavv.png?extra=mEUnKroT1Fm2ABKQYM1cjCFNhLybXCLFEudVdDyflnaOB_bg1uHp3_S7Xerzcqmkp5ENmyaVxNTIspYYiffKucKed2C4N7lI5uH9lCt736F4LOi8KThUm3WTLz47zCAm1_s1N2V5ZN9Dx6cJ9N7rlA "Диаграмма компонентов")
+![Alt-текст](https://psv4.userapi.com/c848328/u155886715/docs/d17/ff2b26ca7ecd/lr.png?extra=xGyuO2Hq7ts6lSfJB0lKzyDJG0jQbTxYWBIQ1s_0m-5k6A8jMujNlFm_jojG8fKjQTVlcAz3yMjO8Qa1aW2d0yidpdCQXroYlVdsZggVFkfwNQGbfcHmvJuxun8OqwKoUVW7IVmK1T-XbDNTCedMWg "Диаграмма компонентов")
 На данной диаграмме изображены все компоненты: клиентское приложение, расписание, преподаватели, клиенты, группы, курсы и виды курсов, денежные операции, языки, кабинеты. 
 Эти компоненты взаимодействуют друг с другом с помощью интерфейсов.
 ## Диаграммы интерфейсов
